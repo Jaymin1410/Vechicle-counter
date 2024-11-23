@@ -18,7 +18,7 @@ counter = 0
 
 # Input Data
 
-cap = cv2.VideoCapture("./abc.mp4")
+cap = cv2.VideoCapture("VehicaleCounter\highway.mp4")
 
 count_line_position = 550
 
